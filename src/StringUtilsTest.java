@@ -7,5 +7,8 @@ public class StringUtilsTest {
 		System.out.println("4");
 		
 		System.out.println(Boolean.TRUE);
+		System.out.println(Boolean.TRUE);
+		System.out.println(Boolean.TRUE);
+		System.out.println(Boolean.TRUE);
 	}
 }
